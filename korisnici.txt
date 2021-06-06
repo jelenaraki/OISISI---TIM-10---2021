@@ -1,0 +1,7 @@
+admin|admin|Administrator|X|ADMINISTRATOR|99999
+rahela|rah123|Rahela|Mesaroš|KORISNIK|12811
+natasa|nat123|Nataša|Cvetković|KORISNIK|81275
+perapet|lagano|Petar|Petrović|KORISNIK|94667
+stevank|ste123|Stevan|Kovačević|KORISNIK|21662
+cikasteva|cika|Steva|Stevanović|KORISNIK|65957
+jovajov|jov|Jova|Jovanović|KORISNIK|31416
